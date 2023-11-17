@@ -1,0 +1,12 @@
+accelerate==0.15.0
+BLEURT @ git+https://github.com/google-research/bleurt.git@cebe7e6f996b40910cfaa520a63db47807e3bf5c
+datasets==2.8.0
+numpy==1.23.5
+pandas==1.5.2
+sacrebleu==2.3.1
+scipy==1.10.0
+sentencepiece==0.1.97
+tokenizers==0.13.2
+torch==1.12.1+cu113
+tqdm==4.64.1
+-e git+https://github.com/huggingface/transformers.git@a5392ee7470f34bb48417ca2af97b9189f0eda70#egg=transformers
