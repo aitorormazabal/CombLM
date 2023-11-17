@@ -2,7 +2,7 @@
 
 **Aitor Ormazabal, Mikel Artetxe, Eneko Agirre**
 
-This repository contains code for the system described in our EMNLP 2023  ![paper](https://arxiv.org/abs/2305.16876).
+This repository contains code for the system described in our EMNLP 2023  [paper](https://arxiv.org/abs/2305.16876).
 
 ## Architecture
 
